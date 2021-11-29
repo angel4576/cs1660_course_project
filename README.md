@@ -2,6 +2,7 @@
 I did not manage to finish the project, so I will just explain what I did in this file.
 
 *Menu*
+
 I wrote a simple JAVA program as the menu for the users to select what service they want to use. 
 User can type in their choice, but the functionality of starting the service is not implemented.
 
