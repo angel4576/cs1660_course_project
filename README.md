@@ -20,4 +20,7 @@ User can type in their choice, but the functionality of starting the service is 
     users to log in where the login and password are both "admin". 
     Failed to link sonar scanner
     
+   
+ The video can't be viewed on github but I think it can be downloaded to view it. 
+    
     
